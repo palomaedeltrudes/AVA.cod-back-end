@@ -20,9 +20,9 @@ ________________________________________________________________________________
 
 	🔓 [SA2-Forum-de-Discussão]: Comandos em Markdown.
 
- 	🔓 [SA2-Atividade-Online-1]: Criação de modelagem do sistema aplicando o diagrama UML, atraves da ferramenta draw.io.
+ 	🔒[SA2-Atividade-Online-1]: Criação de modelagem do sistema aplicando o diagrama UML, atraves da ferramenta draw.io.
 
- 	🔓 [SA2-Encontro-Remoto-1]: Apresentação da modelagem do sistema em Power Point.
+	🔒 [SA2-Encontro-Remoto-1]: Apresentação da modelagem do sistema em Power Point.
 
  	🔓 [SA2-Encontro-Remoto-2]: Criar o projeto e as classes base de pessoa física e jurídica.
 
