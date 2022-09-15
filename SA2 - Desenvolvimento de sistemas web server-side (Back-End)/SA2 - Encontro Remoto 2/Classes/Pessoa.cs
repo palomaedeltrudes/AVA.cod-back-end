@@ -1,12 +1,13 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace SA2___Desenvolvimento_de_sistemas_web_server_side__Back_End_.SA2 - Encontro Remoto 2.Classes
+namespace SA2___Encontro_Remoto_2.Classes
 {
-    public class Pessoa
+    //classe pessoa. superclasse/abstrata
+    public abstract class Pessoa
     {
-        
+       //atributos da classe pessoa
+       public string? Nome { get; set; }
+       public string? Endereço { get; set; }    
+       public float Rendimento { get; set; }
     }
 }
+
+//metodos acessores > get: leitura set: edição

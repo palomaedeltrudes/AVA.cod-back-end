@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lomat\\Documents\\SENAI-LOGICA-PROGRAMACAO\\AVA.cod-back-end\\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\\SA2 - Desenvolvimento de sistemas web server-side (Back-End).csproj",
-      "projectName": "SA2 - Desenvolvimento de sistemas web server-side (Back-End)",
-      "projectPath": "C:\\Users\\lomat\\Documents\\SENAI-LOGICA-PROGRAMACAO\\AVA.cod-back-end\\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\\SA2 - Desenvolvimento de sistemas web server-side (Back-End).csproj",
+      "projectUniqueName": "C:\\Users\\lomat\\Documents\\SENAI-LOGICA-PROGRAMACAO\\AVA.cod-back-end\\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\\SA2 - Encontro Remoto 2\\SA2 - Encontro Remoto 2.csproj",
+      "projectName": "SA2 - Encontro Remoto 2",
+      "projectPath": "C:\\Users\\lomat\\Documents\\SENAI-LOGICA-PROGRAMACAO\\AVA.cod-back-end\\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\\SA2 - Encontro Remoto 2\\SA2 - Encontro Remoto 2.csproj",
       "packagesPath": "C:\\Users\\lomat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lomat\\Documents\\SENAI-LOGICA-PROGRAMACAO\\AVA.cod-back-end\\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\\obj\\",
+      "outputPath": "C:\\Users\\lomat\\Documents\\SENAI-LOGICA-PROGRAMACAO\\AVA.cod-back-end\\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\\SA2 - Encontro Remoto 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lomat\\AppData\\Roaming\\NuGet\\NuGet.Config"

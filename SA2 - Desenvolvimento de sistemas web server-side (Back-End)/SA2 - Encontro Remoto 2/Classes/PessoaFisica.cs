@@ -1,12 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace SA2___Desenvolvimento_de_sistemas_web_server_side__Back_End_.SA2 - Encontro Remoto 2.Classes
+namespace SA2___Encontro_Remoto_2.Classes
 {
-    public class PessoaFisica
+    //classe Pessoa Fisica herda os atributos da superclasse Pessoa
+    public class PessoaFisica : Pessoa
     {
-        
+       public string? Cpf { get; set; } 
+       public DateTime DataNascimento { get; set; }
     }
 }
