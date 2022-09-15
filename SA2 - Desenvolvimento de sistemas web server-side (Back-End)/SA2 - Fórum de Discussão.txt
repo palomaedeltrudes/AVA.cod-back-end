@@ -1,0 +1,46 @@
+Lista de comandos em Markdown 
+
+[Titulação]
+# Título <h1>
+## Título <h2>
+### Título <h3>
+#### Título <h4>
+##### Título <h5>
+###### Título <h6>
+
+[Ênfase]
+Para adicionar ênfase ao conteúdo que será escrito, usa-se o asterisco * ou traço-baixo (underline) _:
+
+Negrito: adicione dois asteriscos **texto** ou dois traços-baixos __texto__ no início e no fim do conteúdo.
+Itálico: adicione apenas um asterisco *texto* ou um traço-baixo _texto_ no início e no fim do conteúdo.
+
+[Imagens]
+O código para inserir uma imagem no conteúdo é semelhante ao código de inserir links-âncora, adicionando um ponto de exclamação ! no início do código, como no exemplo abaixo:
+
+![Alt ou título da imagem](URL da imagem)
+
+[Citações de texto]
+Como diria o meu avô:
+> Água mole, pedra dura, tanto bate até que fura.
+
+[Citações de código]
+
+`# Texto sem formatação`
+
+`` `
+Exemplo de **código**
+que pode ser usado em *blocos*
+`` `
+
+[Links]
+
+<http://localhost:3000>
+
+[Texto com link]
+
+[Link para cabeçalho](#nome-do-cabecalho)
+[Link para linha](caminho/arquivo#L13)
+[Link relativo](caminho/arquivo.md)
+[Link relativo](./caminho/arquivo.md)
+[Link absoluto](/caminho/arquivo.md)
+[Link com texto](https://www.dominio.com)
