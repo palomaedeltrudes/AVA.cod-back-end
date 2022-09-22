@@ -1,0 +1,15 @@
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\bin\Debug\net6.0\SA2 - Encontro Remoto 4.exe
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\bin\Debug\net6.0\SA2 - Encontro Remoto 4.deps.json
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\bin\Debug\net6.0\SA2 - Encontro Remoto 4.runtimeconfig.json
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\bin\Debug\net6.0\SA2 - Encontro Remoto 4.dll
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\bin\Debug\net6.0\SA2 - Encontro Remoto 4.pdb
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.csproj.AssemblyReference.cache
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.AssemblyInfoInputs.cache
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.AssemblyInfo.cs
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.csproj.CoreCompileInputs.cache
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.dll
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\refint\SA2 - Encontro Remoto 4.dll
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.pdb
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\SA2 - Encontro Remoto 4.genruntimeconfig.cache
+C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 4\obj\Debug\net6.0\ref\SA2 - Encontro Remoto 4.dll
