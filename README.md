@@ -28,15 +28,15 @@ ________________________________________________________________________________
 
  	🔒 [SA2-Encontro-Remoto-3]: Criar a classe Endereço com os atributos Logradouro, Número, Complemento e EndereçoComercial; Criar as interfaces para Pessoa, PessoaFisica e PessoaJuridica; Implementar o método PagarImposto para PessoaFisica e PessoaJuridica.
 
- 	🔓 [SA2-Encontro-Remoto-4]: Criar a classe filha de pessoa jurídica com CNPJ e razão social.
+ 	🔒 [SA2-Encontro-Remoto-4]: Implementar os métodos para validar data de nascimento, usando sobrecarga (string e DateTime como argumento de cada método).
 
- 	🔓 [SA2-Encontro-Remoto-5]: Adicionar à classe base de pessoa física, o método de pagar imposto.
+ 	🔓 [SA2-Encontro-Remoto-5]: 
 
-	🔓 [SA2-Encontro-Remoto-6]: Adicionar à classe base de pessoa jurídica, o método de pagar imposto.
+	🔓 [SA2-Encontro-Remoto-6]: 
 
- 	🔓 [SA2-Encontro-Remoto-7]: Adicionar o endereço à classe base de pessoa física.
+ 	🔓 [SA2-Encontro-Remoto-7]: 
 
- 	🔓 [SA2-Encontro-Remoto-8]: Adicionar o endereço à classe base de pessoa jurídica.
+ 	🔓 [SA2-Encontro-Remoto-8]: 
 
  	🔓 [SA2-Atividade-Online-2]: Guardar um arquivo txt.
 
