@@ -1,0 +1,24 @@
+SA1- Fórum de Discussão
+Você viu que os requisitos de back-end são classificados em dois tipos: funcionais (RF) e não funcionais (RNF).
+ 
+Qual deles você considera que pode impactar negativamente a experiência de um usuário em um site ou aplicativo?
+ 
+Justifique sua resposta e cite exemplos.
+Não se esqueça de comentar ao menos uma postagem dos colegas.
+
+
+Resposta: Acredito que um erro no levantamento de ambos os requisitos (RF e RNF) podem impactar negativamente a experiencia do usuario. 
+O QUE o sistema fará, ou COMO o sistema fará? Sendo que "O QUE" seria a definicao dos Requisitos Funcionais e "COMO" dos Requisitos Nao Funcionais.
+Exemplo de falha em que cada um dos requisitos podem impactar na experiencia do usuario:
+
+Problema:
+
+Cliente nao consegue consultar fatura do cartao de credito digitando o CPF. Dificuldades de carregamento e conexao no app.
+
+Requisito funcional: 
+- Criar metodo de consulta de fatura pelo CPF
+- Lista fatura dos ultimos 12 meses
+
+Requisito nao funcional:
+- O App deve funcionar offline.
+- O sistema deve respeitar o tempo máximo de 120 segundos durante os processamentos.
