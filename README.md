@@ -24,9 +24,9 @@ ________________________________________________________________________________
 
 	🔒 [SA2-Encontro-Remoto-1]: Apresentação da modelagem do sistema em Power Point.
 
- 	🔒 [SA2-Encontro-Remoto-2]: Criar o projeto e as classes base de pessoa física e jurídica.
+ 	🔒 [SA2-Encontro-Remoto-2]: Criar o projeto e a super classe Pessoa e as classes base de pessoa física e jurídica; Criar os atributos e atribuir valores; Imprimir dados no console. 
 
- 	🔓 [SA2-Encontro-Remoto-3]: Criar a classe filha de pessoa física com as propriedades de CPF e a data de nascimento.
+ 	🔒 [SA2-Encontro-Remoto-3]: Criar a classe Endereço com os atributos Logradouro, Número, Complemento e EndereçoComercial; Criar as interfaces para Pessoa, PessoaFisica e PessoaJuridica; Implementar o método PagarImposto para PessoaFisica e PessoaJuridica.
 
  	🔓 [SA2-Encontro-Remoto-4]: Criar a classe filha de pessoa jurídica com CNPJ e razão social.
 
