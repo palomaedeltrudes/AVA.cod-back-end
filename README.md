@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 📁 SA1 - Planejamento de Interface.
 
-	🔓 [SA1-Forum-de-Discussão]: Tipos de requisitos de back-end: funcionais (RF) e não funcionais (RNF).
+	🔒 [SA1-Forum-de-Discussão]: Tipos de requisitos de back-end: funcionais (RF) e não funcionais (RNF).
 
 	🔒 [SA1-Atividade-Online-1]: Levantamento de requisitos de back-end.
 
