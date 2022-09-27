@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
  	🔒 [SA2-Encontro-Remoto-4]: Implementar os métodos para validar data de nascimento, usando sobrecarga (string e DateTime como argumento de cada método).
 
- 	🔒 [SA2-Encontro-Remoto-5]: Implementar os métodos para validar Cnpj
+ 	🔒 [SA2-Encontro-Remoto-5]: Implementar na classe de Pessoa Jurídica o método de Validar Cnpj, testar na classe program.cs.
 
 	🔓 [SA2-Encontro-Remoto-6]: 
 
