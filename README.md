@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
  	🔒 [SA2-Encontro-Remoto-5]: Implementar na classe de Pessoa Jurídica o método de Validar Cnpj, testar na classe program.cs.
 
-	🔓 [SA2-Encontro-Remoto-6]: 
+	🔒 [SA2-Encontro-Remoto-6]: Criar menu de boas vindas e submenu de opções; Criar método estático de barra de carregamento; Personalizar e organizar a classe program.cs.
 
  	🔓 [SA2-Encontro-Remoto-7]: 
 
