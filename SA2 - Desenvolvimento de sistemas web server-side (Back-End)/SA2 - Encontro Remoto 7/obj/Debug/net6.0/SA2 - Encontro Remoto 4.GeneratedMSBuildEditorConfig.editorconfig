@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SA2___Encontro_Remoto_2
+build_property.ProjectDir = C:\Users\lomat\Documents\SENAI-LOGICA-PROGRAMACAO\AVA.cod-back-end\SA2 - Desenvolvimento de sistemas web server-side (Back-End)\SA2 - Encontro Remoto 6\
