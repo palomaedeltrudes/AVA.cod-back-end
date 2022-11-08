@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 	🔒 [SA2-Encontro-Remoto-6]: Criar menu de boas vindas e submenu de opções; Criar método estático de barra de carregamento; Personalizar e organizar a classe program.cs.
 
- 	🔓 [SA2-Encontro-Remoto-7]: 
+ 	🔒 [SA2-Encontro-Remoto-7]: Criar submenu para opção de pessoa física com opções de cadastrar e listar; Deixar o cadastro dinâmico para entrada de dados via console; Criar uma lista, armazenar os objetos criados dentro dela e mostrar  os itens da lista no console.
 
  	🔓 [SA2-Encontro-Remoto-8]: 
 
