@@ -14,7 +14,6 @@
 
 📁 Ver funcionalidades logo abaixo, separados por modulos SA1, SA2 e SA3.
 
-👩‍💻 Projeto desenvolvido por [Paloma Edeltrudes](https://github.com/palomaedeltrudes)
 
 ______________________________________________________________________________________________________________________
 
@@ -71,4 +70,4 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________
 
-📚 Turma 10 - PBE - SENAI
+👩‍💻 Projeto desenvolvido por [Paloma Edeltrudes](https://github.com/palomaedeltrudes)
