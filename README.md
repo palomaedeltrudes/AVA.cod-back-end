@@ -1,20 +1,20 @@
-##📚 Repositorio criado para armazenar todas as atividades realizadas dentro do modulo de Codificação em Back-end UC9.
+📚 Repositorio criado para armazenar todas as atividades realizadas dentro do modulo de Codificação em Back-end UC9.
 
-##💻 Tecnologias Utilizadas:	
+💻 Tecnologias Utilizadas:	
 - .NET
 - C#
 - Visual Studio Code
 - Github
 - Github Desktop
 
-##⚙️ Execução da aplicação:
+⚙️ Execução da aplicação:
 - Clonar o repositório local, abrir o projeto com o VSCode;
 - Para executar a aplicação, abre-se o terminal e rode o seguinte comando: dotnet run;
 - Fazer o versionamento com Github Desktop para salvar o projeto atualizado no repositorio remoto.
 
-##📁 Ver funcionalidades logo abaixo, separados por modulos SA1, SA2 e SA3.
+📁 Ver funcionalidades logo abaixo, separados por modulos SA1, SA2 e SA3.
 
-##👩‍💻 Projeto desenvolvido por [Paloma Edeltrudes](https://github.com/palomaedeltrudes)
+👩‍💻 Projeto desenvolvido por [Paloma Edeltrudes](https://github.com/palomaedeltrudes)
 
 ______________________________________________________________________________________________________________________
 
