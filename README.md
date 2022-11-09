@@ -53,7 +53,7 @@ ________________________________________________________________________________
 
  	🔒 [SA2-Encontro-Remoto-8]: Salvar e listamos objeto de Pessoa Física em arquivo txt; Gerar arquivo csv  e listar os itens desse arquivo. 
 
- 		🔒 [SA2-Atividade-Online-2]: Guardar um arquivo txt.
+ 	🔒 [SA2-Atividade-Online-2]: Guardar um arquivo txt.
 
  	🔒 [SA2-Atividade-Online-3]: Documentar o sistema, por meio do arquivo readme.
 
