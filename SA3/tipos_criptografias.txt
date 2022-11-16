@@ -1,0 +1,9 @@
+Hash:
+Este tipo de criptografia permite que seja calculado um identificador digital de tamanho fixo, para um texto de qualquer tamanho, chamado de valor hash. Este tipo de lógica serviu de base para tecnologias como o Blockchain, e é utilizado na geração de assinaturas digitais e análise e verificação da validade e integridade de arquivos digitais.
+________________________________
+
+Simétrica:
+Neste tipo, a criptografia é realizada com base em uma única chave, que é utilizada para criptografar e também descriptografar uma mensagem.
+Sua principal aplicação é na proteção de dados em repouso, como em bancos de dados ou discos rígidos.
+Exemplo: A chave é 3 e a mensagem original, “HELLO“, foi criptografada como “KHOOR“.
+E para descriptografar, basta utilizar a mesma chave/lógica, que é a troca de cada letra para a terceira letra posterior a ela no alfabeto.
