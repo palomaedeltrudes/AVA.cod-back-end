@@ -1,11 +1,22 @@
-# AVA.cod-back-end
+📚 Repositorio criado para armazenar todas as atividades realizadas dentro do modulo de Codificação em Back-end UC9.
 
-📚 Repositorio criado para armazenar todas as atividades realizadas dentro do modulo de Codificação em Back-end. 
-Neste projeto utilizei a linguagem de programação C#, atraves do editor de codigo chamado VS Code. Foi instalado a extensão do .NET 6.0 e, para o controle de versionamento do codigo, usei o GitHub Desktop.
-Ver funcionalidades logo abaixo, separados por modulos SA1, SA2 e SA3.
+💻 Tecnologias Utilizadas:	
+- .NET
+- C#
+- Visual Studio Code
+- Github
+- Github Desktop
 
-Contribuidores: Paloma Edeltrudes
+⚙️ Execução da aplicação:
+- Clonar o repositório local, abrir o projeto com o VSCode;
+- Para executar a aplicação, abre-se o terminal e rode o seguinte comando: dotnet run;
+- Fazer o versionamento com Github Desktop para salvar o projeto atualizado no repositorio remoto.
+
+📁 Ver funcionalidades logo abaixo, separados por modulos SA1, SA2 e SA3.
+
+
 ______________________________________________________________________________________________________________________
+
 
 📁 SA1 - Planejamento de Interface.
 
@@ -41,7 +52,7 @@ ________________________________________________________________________________
 
  	🔒 [SA2-Encontro-Remoto-8]: Salvar e listamos objeto de Pessoa Física em arquivo txt; Gerar arquivo csv  e listar os itens desse arquivo. 
 
- 		🔒 [SA2-Atividade-Online-2]: Guardar um arquivo txt.
+ 	🔒 [SA2-Atividade-Online-2]: Guardar um arquivo txt.
 
  	🔒 [SA2-Atividade-Online-3]: Documentar o sistema, por meio do arquivo readme.
 
@@ -59,4 +70,4 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________
 
-📚 Turma 10 - PBE - SENAI
+👩‍💻 Projeto desenvolvido por [Paloma Edeltrudes](https://github.com/palomaedeltrudes)
