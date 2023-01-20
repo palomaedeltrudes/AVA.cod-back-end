@@ -60,13 +60,13 @@ ________________________________________________________________________________
 
 📁 SA3 - Implementação de sistemas web.
 
- 	🔓 [SA3-Forum-de-Discussão]: Tipos de criptografia.
+ 	🔒 [SA3-Forum-de-Discussão]: Tipos de criptografia.
 
- 	🔓 [SA3-Atividade-Online-1]: Elaboração de documento Especificação de Requisitos de Software (SRS - Software Requirements Specification).
+ 	🔒 [SA3-Atividade-Online-1]: Elaboração de documento Especificação de Requisitos de Software (SRS - Software Requirements Specification).
 
- 	🔓 [SA3-Encontro-Remoto-1]: Especificação de Requisitos de Software (SRS - Software Requirements Specification).
+ 	🔒 [SA3-Encontro-Remoto-1]: Especificação de Requisitos de Software (SRS - Software Requirements Specification).
 
- 	🔓 [SA3-Encontro-Remoto-2]: Hospedagem e implantação do sistema proposto.
+ 	🔒 [SA3-Encontro-Remoto-2]: Hospedagem e implantação do sistema proposto.
 
 ______________________________________________________________________________________________________________________
 
